@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.FlashBang",
+  "AssemblyName": "FlashBangGrenade.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Dtony"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Flash Bang Grenade"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Adds A Flash Bang To The Game"
+    }
+  ],
+  "Dependencies": []
+}
